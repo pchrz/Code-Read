@@ -1,0 +1,12 @@
+c:\users\peter\documents\visual studio 2013\Projects\CodeRead\CodeRead\bin\Debug\CodeRead.exe.config
+c:\users\peter\documents\visual studio 2013\Projects\CodeRead\CodeRead\bin\Debug\CodeRead.exe
+c:\users\peter\documents\visual studio 2013\Projects\CodeRead\CodeRead\bin\Debug\CodeRead.pdb
+c:\users\peter\documents\visual studio 2013\Projects\CodeRead\CodeRead\obj\Debug\CodeRead.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2013\Projects\CodeRead\CodeRead\obj\Debug\CodeRead.Form1.resources
+c:\users\peter\documents\visual studio 2013\Projects\CodeRead\CodeRead\obj\Debug\CodeRead.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2013\Projects\CodeRead\CodeRead\obj\Debug\CodeRead.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2013\Projects\CodeRead\CodeRead\obj\Debug\CodeRead.exe
+c:\users\peter\documents\visual studio 2013\Projects\CodeRead\CodeRead\obj\Debug\CodeRead.pdb
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\CodeRead\Code-Read\CodeRead\bin\Debug\CodeRead.exe.config
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\CodeRead\Code-Read\CodeRead\obj\Debug\CodeRead.exe
+C:\Users\Peter\Documents\Visual Studio 2013\Projects\CodeRead\Code-Read\CodeRead\obj\Debug\CodeRead.pdb
